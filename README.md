@@ -1,4 +1,5 @@
 # ASPNET-JS-10fastfingers
+edit: Enter ve TAB tuşları ile diğer kelimeye geçiliyor, ilk başta space ve enter ile yapmak istemiştim fakat bazı kelimeler 2 kelimeden oluşuyor bu yüzden sıkıntı çıkacaktı. 
 
 ASPNET VE Javascript ile yazılmıs basit bir 10fastfingers sitesi tarzında birşeyler. 
 Örnek resimleri: 
